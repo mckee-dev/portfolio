@@ -38,7 +38,7 @@ export function Experience() {
                           {item.company}
                         </p>
                       </div>
-                      <div className="text-right">
+                      <div className="sm:text-right">
                         <span className="text-sm text-zinc-500 font-mono block">
                           {item.period}
                         </span>
