@@ -45,11 +45,11 @@ export function About() {
                 {personalInfo.summary}
               </p>
               <p className="text-base text-zinc-500 leading-relaxed">
-                Over the past six years, I&apos;ve had the privilege of working
-                with startups and enterprise teams, shipping products that serve
-                millions of users. From architecting microservices on AWS to
-                crafting pixel-perfect React interfaces, I bring a holistic
-                approach to software development.
+                Over the past five years, I&apos;ve had the privilege of working
+                across contracting, agency, and product teams, shipping
+                full-stack features end to end. From architecting APIs and
+                backend services to crafting responsive React interfaces, I
+                bring a holistic approach to software development.
               </p>
               <p className="text-base text-zinc-500 leading-relaxed">
                 My expertise spans the full development lifecycle—from initial

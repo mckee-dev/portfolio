@@ -38,9 +38,14 @@ export function Experience() {
                           {item.company}
                         </p>
                       </div>
-                      <span className="text-sm text-zinc-500 font-mono">
-                        {item.period}
-                      </span>
+                      <div className="text-right">
+                        <span className="text-sm text-zinc-500 font-mono block">
+                          {item.period}
+                        </span>
+                        <span className="text-xs text-zinc-600">
+                          {item.location}
+                        </span>
+                      </div>
                     </div>
 
                     <p className="text-zinc-400 leading-relaxed mb-4">

@@ -6,8 +6,8 @@ import { About } from "@/components/sections/about";
 import { TechStack } from "@/components/sections/tech-stack";
 import { Experience } from "@/components/sections/experience";
 import { Projects } from "@/components/sections/projects";
+import { Education } from "@/components/sections/education";
 import { Services } from "@/components/sections/services";
-import { Testimonials } from "@/components/sections/testimonials";
 import { Statistics } from "@/components/sections/statistics";
 import { Contact } from "@/components/sections/contact";
 
@@ -22,9 +22,9 @@ export default function Home() {
         <TechStack />
         <Experience />
         <Projects />
+        <Education />
         <Services />
         <Statistics />
-        <Testimonials />
         <Contact />
       </main>
       <Footer />

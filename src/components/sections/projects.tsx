@@ -55,30 +55,34 @@ function ProjectCard({
               ))}
             </div>
 
-            <div className="mt-6 flex gap-3">
-              <Button variant="secondary" size="sm" asChild>
-                <a
-                  href={project.github}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <GithubIcon className="h-4 w-4" />
-                  GitHub
-                </a>
-              </Button>
-              {project.live && (
-                <Button variant="outline" size="sm" asChild>
-                  <a
-                    href={project.live}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <ExternalLink className="h-4 w-4" />
-                    Live Demo
-                  </a>
-                </Button>
-              )}
-            </div>
+            {(project.github || project.live) && (
+              <div className="mt-6 flex gap-3">
+                {project.github && (
+                  <Button variant="secondary" size="sm" asChild>
+                    <a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <GithubIcon className="h-4 w-4" />
+                      GitHub
+                    </a>
+                  </Button>
+                )}
+                {project.live && (
+                  <Button variant="outline" size="sm" asChild>
+                    <a
+                      href={project.live}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <ExternalLink className="h-4 w-4" />
+                      Live Demo
+                    </a>
+                  </Button>
+                )}
+              </div>
+            )}
           </div>
         </GlassCard>
         </CardSpotlight>

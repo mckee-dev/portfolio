@@ -1,0 +1,91 @@
+Mehak Fatima
+Senior Software Engineer
+mehakfatimaa26@gmail.com mehak-fatima-959b531a4/ 03070480893
+PROFILE Full Stack Developer with 5+ years of experience building and scaling web applications. I have experience
+working with MERN stack (MongoDB, Express.js, React.js, Node.js) and Ruby on Rails. Strong background in
+developing RESTful and GraphQL APIs, optimizing database performance, and ensuring seamless frontend–
+backend integration. Experienced in deploying and managing applications on AWS with Docker and CI/CD
+pipelines. Adept at working in Agile environments, writing clean and maintainable code.
+SKILLS
+Front-End: React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, AJAX
+Back-End: Node.js, Express.js, ROR, RESTful APIs, GraphQL, Microservices Architecture, WebSockets, JWT / OAuth
+Databases: PostgreSQL, MySQL, Redis, SQLite, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, Lambda, EKS), Docker, Kubernetes, Jenkins, GitLab CI/CD, CircleCI, Sidekiq, RabbitMQ
+Testing: RSpec, Capybara, FactoryBot, Jest, React Testing Library, Playwright
+Tools & Monitoring: Git, GitHub, Heroku, New Relic, Datadog
+Others: Agile, Performance Optimization, Cross-Functional Collaboration, Experience with International Clients
+WORK EXPERIENCE
+November 2025 - Present Remote
+Aug 2022 - October 2025 Lahore, Pakistan
+May 2021 - July 2022
+Lahore, Pakistan
+Senior Software Engineer, Independent Contractor
+Developed and maintained full-stack web application using React.js, Next.js, Node.js, and
+Express.js for a U.S.
+-based client.
+Collaborated directly with stakeholders to gather requirements and translate business needs
+into scalable technical solutions.
+Built new features, resolved production issues, and enhanced existing functionality while
+maintaining high code quality.
+Integrated third-party services and APIs, including OCR-based document processing, to
+automate business workflows.
+Participated in code reviews, GitHub-based development, and AWS-hosted deployments to
+ensure reliable production releases.
+Collaborated with cross-functional teams to deliver scalable, production-ready features.
+Integrated AI-assisted development workflows to accelerate feature delivery by breaking
+down complex requirements into structured prompts, generating initial implementations, and
+refining AI-generated code to production quality.
+Senior Software Engineer, Devsinc
+Built and architected reliable APIs and backend services using Node.js and Express.js,
+integrating scalable systems to ensure application reliability and high performance.
+Developed and optimized RESTful and GraphQL APIs, improving response times by up to
+40%.
+Integrated third-party services including Stripe, Firebase, Google Analytics, and payment
+gateways, enabling core business workflows.
+Modernized frontend modules using React.js, Next.js, and Tailwind CSS, improving
+accessibility and responsiveness.
+Led performance optimization initiatives (refactoring, database tuning, caching) achieving
+30% system performance gains.
+Deployed, monitored, and debugged applications using AWS, New Relic, Datadog,
+improving observability and incident response.
+Guided Rails/Ruby and Node.js version upgrades, ensuring stability and long-term
+maintainability.
+Mentored junior developers and led technical onboarding.
+Software Engineer, Blackstack Software Solutions
+Developed backend functionality using Ruby on Rails for a peer-review management system
+supporting scientific workshops.
+Designed automated workflows for proposal submissions, review cycles, scoring, and
+approvals, improving operational efficiency by 25%.
+Implemented PDF generation using LaTeX, Puppeteer, and jsPDF for standardized, print-
+ready research documents.
+Collaborated closely with frontend and product teams to ensure correctness in reviewer
+allocation and scoring logic.
+Followed Agile practices, writing clean, modular, and maintainable code.
+PROJECTS
+Vehicle Titling Platform
+Technologies: React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, Redis, AWS (EC2, S3, Lambda), OCR, REST APIs
+Built real-time dashboards that enabled clients to monitor vehicle titling workflows and track processing status.
+Developed advanced search, filtering, and reporting features, reducing manual tracking and improving operational visibility.
+Integrated an OCR solution to extract and validate data from state-issued vehicle documents, automating document
+verification.
+Developed REST APIs and backend services to support workflow automation and secure data processing.
+Optimized backend performance using efficient database queries and Redis caching.
+BarqFleet
+Technologies: Node.js (Express), React.js, MongoDB, PostgreSQL, Google Maps API, Redis, BullMQ, AWS (EC2, S3, Lambda), Docker
+Built a full-stack logistics management platform enabling real-time tracking of riders, routes, and orders.
+Implemented Node.js-based RESTful and GraphQL APIs with JWT/OAuth authentication.
+Integrated Google Maps API for live geolocation, routing, and rider tracking, improving operational accuracy by 35%.
+Designed background job processing using BullMQ and Redis for notifications and async workflows.
+Developed interactive dashboards using React, Redux Toolkit, and Axios, ensuring smooth state management.
+Deployed and scaled the platform on AWS using Docker and CI/CD pipelines.
+Agzaga
+Technologies: Ruby on Rails, React.js, PostgreSQL, Elasticsearch, Google Pay, Fabric, CDN, AWS
+Contributed to a B2B marketplace enabling farmers to list, browse, and purchase agricultural products.
+Built RESTful APIs in Ruby on Rails to manage products, orders, payments, and user workflows.
+Designed responsive, user-friendly interfaces using React and Bootstrap.
+Integrated secure payment gateways (Google Pay, Fabric) to support seamless transactions.
+Implemented Elasticsearch-based search, enabling fast filtering by keywords, categories, and pricing.
+Optimized frontend performance via code splitting, lazy loading, and CDN delivery, reducing page load time by 25%.
+EDUCATION
+2017 - 2021 Bachelors of Software Engineering, Punjab University College of Information
+Technology (PUCIT)

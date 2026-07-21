@@ -55,7 +55,7 @@ export function HeroVisual() {
               transition={{ delay: 1.4 }}
               className="pl-4 text-cyan-400"
             >
-              experience: <span className="text-orange-400">6+</span>,
+              experience: <span className="text-orange-400">5+</span>,
             </motion.div>
             <motion.div
               initial={{ opacity: 0, x: -20 }}
